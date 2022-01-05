@@ -1,8 +1,6 @@
 /*
 Project Name    : Video Game Project
-Description     : This project manages video games information. User can load information from a file, 
-				  add new information, search, update, or delete informations. This project written with functions and a good structure with
-                  minimum required memory.
+Description     : This project manages video games information. User can load information from a file, add new information, search, update, or delete informations. This project written with functions and a good structure with minimum required memory.
 Author          : Behnam Ardalani (@BehnamArdalani)
 Language        : C
 Date            : Dec 19, 2021
